@@ -1,0 +1,17 @@
+/* Estilos básicos */
+body {
+    font-size: 16px;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+}
+
+header, nav, main, footer {
+    padding: 20px;
+}
+
+/* Estilos de alto contraste */
+.alto-contraste {
+    background-color: black;
+    color: white;
+}
